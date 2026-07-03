@@ -69,4 +69,4 @@ The project successfully predicts employee salaries and provides useful business
 
 Kajal More
 
-Data Analyst | Machine Learning Enthusiast
+Data Analyst | Machine Learning
